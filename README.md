@@ -1,6 +1,6 @@
-# World Weather 🌍
+# TUR-WE Weather 🌍
 
-A modern, interactive 3D meteorological web application that combines real-time weather tracking with an immersive, rotating globe visualization.
+A modern, interactive 3D meteorological web application that combines real-time weather tracking with an immersive, rotating globe visualization, hosted directly on the web.
 
 ---
 
@@ -24,20 +24,12 @@ A modern, interactive 3D meteorological web application that combines real-time 
 
 ---
 
-## Getting Started
+## Access the App
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/world-weather.git
-
-```
-
-
-2. Open the project folder.
-3. Launch `index.html` in your preferred web browser to run the application locally.
+You can access and use the complete application directly online: **[https://worldmap.my-board.org/](https://worldmap.my-board.org/)**
 
 ---
 
 ## License
 
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is open-source and available under the **MIT License**.
