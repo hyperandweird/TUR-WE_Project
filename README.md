@@ -6,9 +6,9 @@ A modern, interactive 3D meteorological web application that combines real-time 
 
 ## Accessing the source code
 
-* **1: Visit the website: [https://worldmap.my-board.org/](https://worldmap.my-board.org/)
-* **2: Right-click on any empty area and select "Inspect" (or "Inspect page").
-* **3: Since the source code is contained in a single file, you can view the entire code and use it under the GNU General Public License v3 (GNU v3).
+* 1: Visit the website: [https://worldmap.my-board.org/](https://worldmap.my-board.org/)
+* 2: Right-click on any empty area and select "Inspect" (or "Inspect page").
+* 3: Since the source code is contained in a single file, you can view the entire code and use it under the GNU General Public License v3 (GNU v3).
 
 ## Features
 
